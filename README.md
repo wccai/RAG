@@ -5,3 +5,5 @@
 * Enabled Q&A and summarization functionalities through vector databases and Llama3 for efficient information retrieval and summarization
 
 [Jupyter Notebook: build LLM and RAG with reddit text.](conversation_reddit.ipynb)
+
+[Jupyter Notebook: get embedding from LLM with PySpark.](conversation_reddit_Spark.ipynb)
